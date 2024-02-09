@@ -1,3 +1,9 @@
+## This fork - February 9, 2024
+
+- Update `tetra` to 0.8.0
+- Update `open` to 5.0.1
+- Update `copypasta` to 0.10.1
+
 ## v0.3.0 - January 7, 2022
 
 - Update `egui` to 0.16.1
